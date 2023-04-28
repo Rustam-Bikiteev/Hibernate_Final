@@ -77,7 +77,6 @@
       <version>0.9.5.5</version>
     </dependency>
 
-
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
@@ -93,5 +92,6 @@
   </dependencies>
   <build>
     <finalName>Hibernate_2.0.Final</finalName>
+
   </build>
 </project>
