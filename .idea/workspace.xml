@@ -9,15 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="163feecd-50a8-4918-b3a6-86ec6eddd493" name="Changes" comment="minor changes">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="163feecd-50a8-4918-b3a6-86ec6eddd493" name="Changes" comment="adds Dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -171,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682684734717</updated>
       <workItem from="1682684736302" duration="2508000" />
-      <workItem from="1682749058085" duration="1677000" />
+      <workItem from="1682749058085" duration="9695000" />
     </task>
     <task id="LOCAL-00001" summary="update pom">
       <created>1682685041923</created>
@@ -208,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682686036502</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adds Dockerfile">
+      <created>1682750947231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682750947231</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +244,7 @@
     <MESSAGE value="adds controller, service, dao and entities" />
     <MESSAGE value="adds bd_init.sql" />
     <MESSAGE value="minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+    <MESSAGE value="adds Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds Dockerfile" />
   </component>
 </project>
